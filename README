@@ -1,0 +1,4 @@
+The Ising model describes the interaction between electron spins in a very simple way.
+The basic idea is the following: to simplify things, electrons are placed on a regular lattice, a grid. The difference between a ferromagnetic and non-magnetic material could be visualized as (left is non-magnetized material, right is ferromagnetic material, each little arrow represents an electron spin, which is aligned with the electron little magnetic moment μ):
+
+Objectives: the goal of this project is to re-discover the Curie temperature Tc and see how ferromagnetism develops spontaneously from the Ising model. 
